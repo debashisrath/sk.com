@@ -1,0 +1,86 @@
+/*@author Debashis Rath*/
+body{font-family:inherit}
+p{line-height:24px}
+.rudr-img-wd{margin-top:20px}
+ul.Chakra-list li{line-height:33px;list-style-image:url(../images/highlight-arrow.jpg)}
+header{background:#fff}
+.chakra-p{font-size:15px;font-weight:700}
+.home-logo{width:100%;max-width:18%;display:inline-block;padding:10px 10px 10px 60px}
+.menu-nav{width:100%;max-width:70%;display:inline-block}
+ul.res li{display:inline;padding-left:28px;font-size:16px;font-weight:600}
+.astro-form{width:60%;margin:0 auto;padding:7%}
+.facebook {margin-top: -12px;}
+.dob-form-fix{margin-left:-26px;margin-bottom:22px}
+.container-form-app{width:100%;margin:0 auto}
+.avg-bg{background:url(../images/appoitnment-bg.jpg)}
+ul.res li a{color:#000}
+.cust-comment{border:1px solid #ccc;border-left:5px solid #ff550f;width:48%}
+ul.res li a:hover{color:#ff9d0e;text-decoration:none}
+.middle-Astrology{text-align:center;margin-top:36px;margin-bottom:36px}
+.astrology-subtext{margin-top:20px}
+.main-banner-wd{width:100%;max-width:100%}
+label{font-size:17px;color:#E24747}
+.workshop-event{background:#f6f6e7;border-top:1px solid #ccc;border-bottom:1px solid #ccc;border-left:15px solid #0cadfd;border-right:1px solid #ccc}
+.main-content{margin-top:50px;line-height:28px;font-size:17px;font-family:inherit}
+.heightfix{height:30px;clear:both}
+.heightfix-footer{height:80px;clear:both}
+.sk-phone{color:#f60!important;cursor:help}
+.my-home-form-popup {    padding: 30px;border-radius: 3%;}
+.sk-phone:hover{color:#337ab7!important}
+.hypnosis-inner-bg{background:url(../images/hypnosis-inner-bg.jpg);margin-top:23px}
+.main-logo-place{margin-top:20%;margin-left:21%;margin-bottom:20%}
+.title-h1{font-size:28px;color:#ff2e05;font-weight:600;}
+.title-h2{font-size:22px;color:#ff2e05;font-weight:600;}
+.testimonial{background: #f6f6e7;}
+.testimonial-text-home img{text-align: center; margin: 0 auto;}
+.testimonial-text-home {text-align: center; padding: 30px 0 30px 0;}
+ul.rudraksha-ul li {display: inline-block;margin: 10px;border: 3px solid #ccc;cursor: pointer;}
+footer{font-style:normal;font-weight:400;font-size:16px;background-color:#e6e7e8;padding:30px 0;color:#999}
+.thankyou-email {border: 3px solid #ccc;padding: 20px;margin-top: 40px;}
+.slicknav_menu {display: none;}
+.list-group-item-chakra {color: #286090;font-size: 15px;font-weight: 600;}
+.client-about-us {padding: 10px;}
+.hand-width{font-size: 30px;}
+.pull-right-my {float: right;}
+ul.footer-list li {  list-style-type: none; line-height: 25px;margin-left: -18%;}
+ul.footer-list li a {  list-style-type: none; line-height: 25px; color: #999 !important; }
+.fb-like-bt {margin-left: -3%;margin-top: 20px;}
+.read-more{color: #ff2e05 !important;}
+.my-inner-form {background: #FBF2C7; padding: 10px;border-radius: 3%;}
+.my-inner-form > h4 { text-align: center; color: #286090;    font-weight: 700;border-radius: 1%;}
+.my-inner-form > .btn-lg { text-align: center;}
+.gif-round-img {border-radius: 100%; width: 80%; height: 80%;}
+.gif-round-img-gem {border-radius: 100%; width: 100%; height: 100%;}
+.img-gif{position: absolute;top: 23%;left: 70%; }
+#slider{position:relative;overflow:hidden;margin:20px auto 0;border-radius:4px}
+ul.slider-list-item li img{border-radius:5px;border:: 10px solid red!important}
+#slider ul{position:relative;margin:0;padding:0;height:200px;list-style:none}
+#slider ul li{position:relative;display:block;float:left;margin:0;padding:0;width:500px;height:300px;text-align:center;line-height:300px}
+a.control_prev,a.control_next{position:absolute;top:40%;z-index:999;display:block;padding:4% 3%;width:auto;height:auto;background:#2a2a2a;color:#fff;text-decoration:none;font-weight:600;font-size:18px;opacity:.8;cursor:pointer}
+.services-title{background:#0cadfd;color:#fff;font-weight:700;font-size:16px}
+a.control_prev:hover,a.control_next:hover{opacity:1;-webkit-transition:all .2s ease}
+a.control_prev{border-radius:0 2px 2px 0}
+a.control_next{right:0;border-radius:2px 0 0 2px}
+.sk-our-services {text-align: center;}
+.slider_option{position:relative;margin:10px auto;width:160px;font-size:18px}
+.home-main-banner-jyotish {background-image: url(../images/jyotish.jpg); width: 100%;padding-top: 22.25%;background-size: cover;-moz-background-size: cover;background-position: center;}
+.home-main-banner-testimonials {background-image: url(../images/gem-stones-banner.jpg); width: 100%;padding-top: 22.25%;background-size: cover;-moz-background-size: cover;background-position: center;}
+@media screen and (max-width: 40em) {
+	#slider ul li {width: 300px;}
+	.cust-comment{border:1px solid #ccc;border-left:5px solid #ff550f;width:90%}
+	.pull-normal {float: left; margin-top: 10px; margin-left: 10px;}
+/* #menu is the original menu */
+.js #menu {
+display:none;
+}
+.js .slicknav_menu {
+display:block;
+}
+#explore {
+display: none;
+}
+.dropdown-menu{
+position: static;
+width: 100% !important;
+}
+}

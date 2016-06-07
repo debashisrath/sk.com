@@ -1,0 +1,7 @@
+User-agent:*
+Allow: /
+
+User-agent: *
+
+Sitemap: http://www.santoshsharmaa.com/sitemap.xml
+

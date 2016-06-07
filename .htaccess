@@ -1,0 +1,5 @@
+DirectoryIndex index.php
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^santoshsharmaa.com$
+RewriteRule (.*) http://www.santoshsharmaa.com$1 [R=301]
